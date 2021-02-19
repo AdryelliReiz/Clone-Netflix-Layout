@@ -20,7 +20,7 @@ Data taken from <a href="https://www.themoviedb.org/">Themoviedb.org</a> .
 ###  Autor
 ---
 <a href="https://www.instagram.com/adryelli_reis/">
-<img style = "border-radius: 50%;" src = "https://instagram.faju16-1.fna.fbcdn.net/v/t51.2885-19/s150x150/134828229_2905638926426236_6250916852221421335_n.jpg?_nc_ht=instagram.faju16-1.fna.fbcdn.net&_nc_ohc=VnrMA0MwDWwAX_psZiR&tp=1&oh=442c31bf56ecdd97400f45ca377df0f3&oe=602F7163" width = "100px;" alt = "" />
+<img style = "border-radius: 50%;" src = "https://avatars.githubusercontent.com/u/66762439?s=400&u=cf236b0a21eead165ffca14bd543a048b27a25cb&v=4" width = "100px;" alt = "" />
  <br />
  <sub> <b> Adryelli Reis </b> </sub> </a> 
 
